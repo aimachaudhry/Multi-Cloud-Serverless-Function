@@ -12,7 +12,8 @@ The rule implemented was:
 
 Citation: Cleveland Clinic. *Cholesterol Numbers: What Do They Mean?* https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean
 
-## Zoom Recording
+## Zoom Recording:
+https://drive.google.com/file/d/1YqsKowuWDc7phetHcVEJc0N1NDAYVQ1v/view?usp=sharing
 
 ## Google Cloud Provider (GCP)
 ### Steps:
