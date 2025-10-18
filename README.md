@@ -28,7 +28,7 @@ Citation: Cleveland Clinic. *Cholesterol Numbers: What Do They Mean?* https://my
 10. Get the Function URL from the GCP Console and use it to test GET or POST requests
 
 ### Endpoint URL:
-
+https://python-cholesterol-504-65399689449.europe-west1.run.app
 
 <img width="880" height="327" alt="Screenshot 2025-10-17 at 6 35 39 PM" src="https://github.com/user-attachments/assets/2dc97580-9b6e-4ef7-9db2-cc669375f800" />
 
