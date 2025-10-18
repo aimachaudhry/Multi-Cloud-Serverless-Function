@@ -54,6 +54,7 @@ https://python-cholesterol-504-65399689449.europe-west1.run.app
 
 ### Endpoint URL:
 
+https://python-test-dev1-dfhphcddb0byhzc0.canadacentral-01.azurewebsites.net/api/cholesterol
 
 <img width="1122" height="263" alt="Screenshot 2025-10-17 at 7 52 01 PM" src="https://github.com/user-attachments/assets/c2e0f4fe-2f0a-4638-ab41-3ffc2e199262" />
 
