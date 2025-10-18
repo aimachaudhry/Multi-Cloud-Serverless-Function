@@ -65,3 +65,4 @@ Citation: Cleveland Clinic. *Cholesterol Numbers: What Do They Mean?* https://my
 
 
 ## Comparison of GCP & Azure
+Deploying the serverless function on GCP felt more streamlined and easier to test. This is because it was easier to access a public URL for testing. On the other hand, Azure offered more triggers and had a function key for the HTTP requests, which added complexity. However, Azure did have a built-in test interface, which made it convenient to run and debug functions.
